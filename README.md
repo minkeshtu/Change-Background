@@ -52,7 +52,7 @@ Ready the environment by installing all the packges. If you are facing any issue
 Mask RCNN page. This project doesn't need any extra packages to run.
 Before running, please download mask_rcnn_coco.h5 file [by clicking here](https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5) and put it into the main directory
 
-Now, you can run the "main_single_person_extraction.ipynb" and follow the Instructions to process video and image files separately.
+Now, you can run the command "python multi_person.py -h" to know the command line arguments requirements.
 
 ## Ref
 Mask RCNN
